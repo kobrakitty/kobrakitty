@@ -1,5 +1,5 @@
-🐱 Hi, I’m @kobrakitty ✨
-![kittykatsmall](https://github.com/user-attachments/assets/a0179db5-7f6b-4f35-a4c7-f164e4835d36)
+- 🐱 Hi, I’m @kobrakitty ✨<br>
+![kittykatsmall](https://github.com/user-attachments/assets/a0179db5-7f6b-4f35-a4c7-f164e4835d36) <br>
 - 👽 I’m interested in everything AI and creating inclusive tech AI apps.
 - 🌟 I’m currently learning in the Lonely Octopus Program. 
 - 📑 I’m looking to collaborate on...nothing right now bc I'm busy in the LO Program. But maybe soon!☀️
