@@ -1,3 +1,4 @@
+![kittykat](https://github.com/user-attachments/assets/baed17e1-e832-4d80-b120-0ba5d3262d01)
 - 🐱 Hi, I’m @kobrakitty
 - 👀 I’m interested in everything AI, especially creating and designing inclusive tech AI apps.
 - 🌱 I’m currently learning in the Lonely Octopus Program. 
@@ -10,3 +11,4 @@
 kobrakitty/kobrakitty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
